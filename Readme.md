@@ -98,6 +98,7 @@ python app.py
 ### step 10: Complete
 
 Sample link : https://aiot0531hw.herokuapp.com/  
+註: 因為Postgresdb的credentials不是永久性的，若網頁無法正常顯示，需更換credentials  
 
 * 點擊網址進入的畫面
 <img src="https://user-images.githubusercontent.com/94978161/174481346-a86fccbe-f84a-4fa5-a33d-e0a09c5ebb4e.png">
