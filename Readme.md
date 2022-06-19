@@ -99,7 +99,11 @@ python app.py
 
 Sample link : https://aiot0531hw.herokuapp.com/  
 
+* 點擊網址進入的畫面
+<img src="https://user-images.githubusercontent.com/94978161/174481346-a86fccbe-f84a-4fa5-a33d-e0a09c5ebb4e.png">
 
+* 點擊setRandom
+<img src="https://user-images.githubusercontent.com/94978161/174481413-0526cf59-0440-4572-9a69-3bcdb4c4c740.png">
 
-
-
+* 點擊Call AI
+<img src="https://user-images.githubusercontent.com/94978161/174481431-4be47ce4-70d6-4fad-ba07-8bb2b55fb38d.png">
