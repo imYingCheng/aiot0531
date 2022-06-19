@@ -54,13 +54,13 @@ pip install gunicorn Flask==2.0.1 Jinja2==3.0.1 psycopg2 sklearn pandas numpy
 <img src="https://user-images.githubusercontent.com/94978161/174477942-4c55a8e4-63c9-4aae-ade6-98d0e55a8764.png">
 
 ### step 6: setting db in app.py
-
+* 根據上面`Data Credentials`的資訊修改程式
 
 ```sql
-myserver ="<fill-in-Heroku-Postgredb-DB-sever>"
-myuser="<fill-in-Heroku-Postgredb-DB-user>"
-mypassword="<fill-in-Heroku-Postgredb-DB-pwd>"
-mydb="<fill-in-Heroku-Postgredb-DB-db>"
+myserver ="ec2-52-204-195-41.compute-1.amazonaws.com"
+myuser="zolrsjlkwszwfs"
+mypassword=略
+mydb="dakhchn3f4ccsl"
 
 ```
 ### step 7: testing locally by running python app.py
