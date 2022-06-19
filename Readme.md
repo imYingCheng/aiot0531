@@ -63,6 +63,8 @@ mypassword=略
 mydb="dakhchn3f4ccsl"
 
 ```
+<img src="https://user-images.githubusercontent.com/94978161/174478332-ae4c69a8-644a-4b88-9a0e-99e6a63e148d.png">
+
 ### step 7: testing locally by running python app.py
 
 ### step 8: deploy to github (new private github repositoy)
