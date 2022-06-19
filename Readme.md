@@ -50,7 +50,11 @@ pip install gunicorn Flask==2.0.1 Jinja2==3.0.1 psycopg2 sklearn pandas numpy
 * 在public資料庫匯入`./db/postgres.sql`
 <img src="https://user-images.githubusercontent.com/94978161/174475482-f5b6ac00-11b6-48ee-af0a-7c99777a4955.png">
 
-* 
+* 按下執行按鈕
+<img src="">
+
+* 即可看到Sensor資料表
+<img src="https://user-images.githubusercontent.com/94978161/174477942-4c55a8e4-63c9-4aae-ade6-98d0e55a8764.png">
 
 ### step 6: setting db in app.py
 
