@@ -4,15 +4,15 @@
 
 ### step 1 : Clone this github  
 
-* 創建一個資料夾'aiot0531'，  
+* 創建一個資料夾`aiot0531`，  
 <img src="https://user-images.githubusercontent.com/94978161/174471764-a033c33c-fc1f-48a1-bede-d73d7025f6b6.png">  
 
-* 並在終端機輸入以下程式碼clone老師的檔案到'aiot0531'，  
+* 並在終端機輸入以下程式碼clone老師的檔案到`aiot0531`，  
 ```python
 git clone https://github.com/huanchen1107/aiot0530-start-no-token
 ```
 
-* 完成後將資料夾中的.git刪除，方便建立新的git repository。  
+* 完成後將資料夾中的`.git`刪除，方便建立新的git repository。  
 <img src="https://user-images.githubusercontent.com/94978161/174472510-e6767dda-2a92-491d-bce2-60acfaf8703c.png">
 
 ### step 2 : install some package  
@@ -24,9 +24,9 @@ pip install gunicorn Flask==2.0.1 Jinja2==3.0.1 psycopg2 sklearn pandas numpy
 
 ### step 3: add an heroku postgredb
 
-* 註冊一個heroku的帳號
-* 新增一個App(aiot0531hw)
-* 新增外掛功能heroku postgred
+* 註冊一個`heroku`的帳號
+* 新增一個App(`aiot0531hw`)
+* 新增外掛功能`heroku postgres`
 <img src="https://user-images.githubusercontent.com/94978161/174473233-5f20b2f1-b689-4190-9c0e-466a3d4209a0.png">
 
 ### step 4: login to heroku pstgredb using HeidiSQL
@@ -43,14 +43,14 @@ pip install gunicorn Flask==2.0.1 Jinja2==3.0.1 psycopg2 sklearn pandas numpy
   
 #### 使用 HeidiSQL 連線至 postgres DB
 * 下載HeidiSQL
-* 輸入Database Credentials中的資訊
+* 輸入`Database Credentials`中的資訊
 <img src="https://user-images.githubusercontent.com/94978161/174474414-86990a3d-eb96-4c18-ade1-2189517fc274.png">
 
 ### step 5: import postgredb (in db/postgre.db)
 * 在public資料庫匯入`./db/postgres.sql`，並按下執行按鈕。
 <img src="https://user-images.githubusercontent.com/94978161/174475482-f5b6ac00-11b6-48ee-af0a-7c99777a4955.png">
 
-* 即可看到Sensor資料表
+* 即可看到`sensor`資料表
 <img src="https://user-images.githubusercontent.com/94978161/174477942-4c55a8e4-63c9-4aae-ade6-98d0e55a8764.png">
 
 ### step 6: setting db in app.py
