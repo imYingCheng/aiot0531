@@ -33,7 +33,7 @@ pip install gunicorn Flask==2.0.1 Jinja2==3.0.1 psycopg2 sklearn pandas numpy
 
 #### 取得資料庫資料
 * 點選data
-<img src="">
+<img src="https://user-images.githubusercontent.com/94978161/174473547-f2578c4e-5e26-48c1-938b-46685cc646ee.png">
 ```sql
 myserver ="<fill-in-Heroku-Postgredb-DB-sever>"
 myuser="<fill-in-Heroku-Postgredb-DB-user>"
