@@ -74,6 +74,14 @@ python app.py
 <img src="https://user-images.githubusercontent.com/94978161/174478694-5b8a738e-5d5d-4765-9f28-2e2fac39ccaf.png">
 
 #### 測試結果
+* noAI成功
+<img src="">
+
+* Call AI成功
+<img src="">
+
+* setRandom成功
+<img src="">
 
 ### step 8: deploy to github (new private github repositoy)
 
