@@ -5,7 +5,7 @@
 ### step 1 : Clone this github
 
 創建一個資料夾'aiot0531'，  
-<img src="https://user-images.githubusercontent.com/94978161/174471764-a033c33c-fc1f-48a1-bede-d73d7025f6b6.png">
+<img src="https://user-images.githubusercontent.com/94978161/174471764-a033c33c-fc1f-48a1-bede-d73d7025f6b6.png">  
 並在終端機輸入以下程式碼clone老師的檔案到'aiot0531'，  
 ```python
 git clone https://github.com/huanchen1107/aiot0530-start-no-token
