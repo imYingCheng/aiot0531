@@ -27,7 +27,7 @@ pip install gunicorn Flask==2.0.1 Jinja2==3.0.1 psycopg2 sklearn pandas numpy
 * 註冊一個heroku的帳號
 * 新增一個App(aiot0531hw)
 * 新增外掛功能heroku postgred
-<img src="https://user-images.githubusercontent.com/94978161/174473207-025a6213-169c-4b26-a001-bea8ef7bf0d2.png">
+<img src="https://user-images.githubusercontent.com/94978161/174473233-5f20b2f1-b689-4190-9c0e-466a3d4209a0.png">
 
 ### step 4: login to heroku pstgredb using HeidiSQL
 
