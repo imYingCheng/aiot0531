@@ -40,6 +40,7 @@ pip install gunicorn Flask==2.0.1 Jinja2==3.0.1 psycopg2 sklearn pandas numpy
 
 * 選擇setting>>Database Credentials>>view credentials  
 <imd src="https://user-images.githubusercontent.com/94978161/174473893-adb26e54-649c-44e9-9538-6ab06d91e8b3.png">
+  
 
 ```sql
 myserver ="<fill-in-Heroku-Postgredb-DB-sever>"
