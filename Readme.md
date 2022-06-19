@@ -12,7 +12,7 @@
 git clone https://github.com/huanchen1107/aiot0530-start-no-token
 ```
 
-完成後將資料夾中的.git刪除，方便建立新的git repository。  
+● 完成後將資料夾中的.git刪除，方便建立新的git repository。  
 <img src="https://user-images.githubusercontent.com/94978161/174472510-e6767dda-2a92-491d-bce2-60acfaf8703c.png">
 
 ### step 2 : install some package
