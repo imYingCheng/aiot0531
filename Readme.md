@@ -97,11 +97,7 @@ python app.py
 
 ### step 10: Complete
 
-Sample link 1:
-https://awinlab-aiot.herokuapp.com/
-
-Sample link 2: 
-https://aiot0529.herokuapp.com/
+Sample link : https://aiot0531hw.herokuapp.com/  
 
 
 
