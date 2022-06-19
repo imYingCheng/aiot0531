@@ -86,6 +86,12 @@ python app.py
 * 輸入要連結的repository名稱(`aiot0531`)，再按下`connect`
 <img src="https://user-images.githubusercontent.com/94978161/174479975-cb132b48-2c24-4ed0-bf83-07ab2c6b498a.png">
 
+* 按下`Enable Automatic Deploys`和`Deploy Branch`
+<img src="https://user-images.githubusercontent.com/94978161/174480295-ede816ca-0f07-4f11-b4f6-bd7fad9efe5e.png">
+
+* `deploy`成功
+<img src="https://user-images.githubusercontent.com/94978161/174480339-ee8882e2-594e-4828-991a-71c5b25bf757.png">
+
 ### step 9: Heroku deploy from github
 
 ### step 10: Complete
