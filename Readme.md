@@ -75,13 +75,13 @@ python app.py
 
 #### 測試結果
 * noAI成功
-<img src="">
+<img src="https://user-images.githubusercontent.com/94978161/174479411-01f11cfd-5e34-429e-8d7c-2acf8df67bca.png">
 
 * Call AI成功
-<img src="">
+<img src="https://user-images.githubusercontent.com/94978161/174479434-0e190637-ddc5-441b-a611-4ded827151be.png">
 
 * setRandom成功
-<img src="">
+<img src="https://user-images.githubusercontent.com/94978161/174479451-c8ca23dd-2971-470a-8239-bb6acfee7e16.png">
 
 ### step 8: deploy to github (new private github repositoy)
 
