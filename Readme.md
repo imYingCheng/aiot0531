@@ -2,7 +2,7 @@
 
 ## Lecture 15: IoT Flask Web (deploy to heroku)
 
-### step 1 : Clone this github
+### step 1 : Clone this github  
 
 ● 創建一個資料夾'aiot0531'，  
 <img src="https://user-images.githubusercontent.com/94978161/174471764-a033c33c-fc1f-48a1-bede-d73d7025f6b6.png">  
@@ -15,7 +15,7 @@ git clone https://github.com/huanchen1107/aiot0530-start-no-token
 ● 完成後將資料夾中的.git刪除，方便建立新的git repository。  
 <img src="https://user-images.githubusercontent.com/94978161/174472510-e6767dda-2a92-491d-bce2-60acfaf8703c.png">
 
-### step 2 : install some package
+### step 2 : install some package  
 
 ● 輸入以下程式碼以安裝所需套件  
 ```python
