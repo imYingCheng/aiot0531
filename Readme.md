@@ -4,6 +4,13 @@
 
 ### step 1 : Clone this github
 
+創建一個資料夾'aiot0531'  
+並在終端機輸入以下程式碼clone老師的檔案到'aiot0531'  
+```python
+git clone https://github.com/huanchen1107/aiot0530-start-no-token
+```
+完成後將資料夾中的.git刪除，方便建立新的git repository。  
+
 ### step 2 : install some package
 
 
