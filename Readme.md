@@ -69,7 +69,7 @@ mydb="dakhchn3f4ccsl"
 #### 測試
 * 在終端機輸入以下程式碼來測試app.py的運行結果
 ```python
-
+python app.py
 ```
 <img src="https://user-images.githubusercontent.com/94978161/174478503-5f139dab-06e9-4fd4-be2f-cef107f8b488.png">
 
