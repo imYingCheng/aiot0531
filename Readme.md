@@ -81,9 +81,10 @@ python app.py
 <img src="https://user-images.githubusercontent.com/94978161/174479630-0099d7af-c0ec-4f3b-b165-eb95a8e976eb.png">
 
 ### step 8: deploy to github (new private github repositoy)
-
-delete .git and git remote add origin master github.com/xxxxx
-
+* 到`Heroku`點選剛剛新增的App(`aiot0531hw`)
+* 按下`deploy`，再按下面的`github`
+* 輸入要連結的repository名稱(`aiot0531`)
+<img src="https://user-images.githubusercontent.com/94978161/174479975-cb132b48-2c24-4ed0-bf83-07ab2c6b498a.png">
 
 ### step 9: Heroku deploy from github
 
