@@ -17,15 +17,9 @@ git clone https://github.com/huanchen1107/aiot0530-start-no-token
 
 ### step 2 : install some package
 
-
+● 輸入以下程式碼以安裝所需套件  
 ```python
-pip insall gunicorn   
-Flask==2.0.1 
-Jinja2==3.0.1 
-psycopg2 
-sklearn 
-pandas  
-numpy 
+pip install gunicorn Flask==2.0.1 Jinja2==3.0.1 psycopg2 sklearn pandas numpy
 ```
 
 ### step 3: add an heroku postgredb
