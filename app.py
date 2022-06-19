@@ -6,10 +6,10 @@ import json
 app = Flask(__name__)
 #0531 change 1
 # the following configuration must use heroku add-on postgredb
-myserver ="<fill-in-Heroku-Postgredb-DB-sever>"
-myuser="<fill-in-Heroku-Postgredb-DB-user>"
-mypassword="<fill-in-Heroku-Postgredb-DB-pwd>"
-mydb="<fill-in-Heroku-Postgredb-DB-db>"
+myserver ="ec2-52-204-195-41.compute-1.amazonaws.com"
+myuser="zolrsjlkwszwfs"
+mypassword="a2bd7bdd33a533442c607080f6f00a8a8c8c3097859949a3456886eb641f3f6f"
+mydb="dakhchn3f4ccsl"
 
 
 @app.route("/data.json")
@@ -38,12 +38,6 @@ def noAI():
 
 @app.route("/setRandom")
 def getData():
-	# myserver ="localhost"
-	# myuser="test123"
-	# mypassword="test123"
-	# mydb="aiotdb"
-	
-	
 	debug =0
 	from  pandas import DataFrame as df
 	import pandas as pd                     # 引用套件並縮寫為 pd
