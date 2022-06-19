@@ -71,7 +71,7 @@ mydb="dakhchn3f4ccsl"
 ```python
 python app.py
 ```
-<img src="https://user-images.githubusercontent.com/94978161/174478503-5f139dab-06e9-4fd4-be2f-cef107f8b488.png">
+<img src="https://user-images.githubusercontent.com/94978161/174478694-5b8a738e-5d5d-4765-9f28-2e2fac39ccaf.png">
 
 #### 測試結果
 
