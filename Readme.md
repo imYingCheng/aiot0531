@@ -75,11 +75,10 @@ python app.py
 
 #### 測試結果
 * noAI成功
-<img src="https://user-images.githubusercontent.com/94978161/174479411-01f11cfd-5e34-429e-8d7c-2acf8df67bca.png">
+<img src="https://user-images.githubusercontent.com/94978161/174479660-098efd51-2791-4e6f-b00d-aab5384e8c95.png">
+
 * Call AI成功
-<img src="https://user-images.githubusercontent.com/94978161/174479434-0e190637-ddc5-441b-a611-4ded827151be.png">
-* setRandom成功
-<img src="https://user-images.githubusercontent.com/94978161/174479451-c8ca23dd-2971-470a-8239-bb6acfee7e16.png">
+<img src="https://user-images.githubusercontent.com/94978161/174479630-0099d7af-c0ec-4f3b-b165-eb95a8e976eb.png">
 
 ### step 8: deploy to github (new private github repositoy)
 
